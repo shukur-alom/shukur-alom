@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shukur Alam</h1>
-<h3 align="center">I'm a driven AIoT developer with a strong foundation in software engineering (currently pursuing a BSc) and a passion for building intelligent solutions that leverage the power of AI and connected devices. Since 2019, I've been deeply involved in the AIoT field, gaining experience in AIoT-based automation like farming automation. I'm constantly seeking opportunities to learn and innovate in this rapidly evolving space. I'm proficient in C++, Python3 and Tensorflow.</h3>
+<h3 align="center">Computer Vision Developer || Internet Of Things Developer || Automation Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukur-alom&label=Profile%20views&color=0e75b6&style=flat" alt="shukur-alom" /> </p>
 
