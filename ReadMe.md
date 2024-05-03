@@ -1,11 +1,8 @@
 # 💫 About Me:
-👋 Hello! I'm Shukur Alam, a dedicated student and passionate programmer specializing in AIOT (Artificial Intelligence of Things). Currently pursuing my BS in Software Engineering at Daffodil International University, Bangladesh.
 
-💻 Actively involved in programming since 2019, I've delved into diverse projects, honing skills in AI, IoT, and software development. My journey includes building intelligent and connected systems, diving deep into the complexities of tech.
+I'm a driven AIoT developer with a strong foundation in software engineering (currently pursuing a BSc) and a passion for building intelligent solutions that leverage the power of AI and connected devices. Since 2019, I've been deeply involved in the AIoT field, gaining experience in AIoT-based automation like farming automation.
 
-🏆 Proud recipient of prestigious government awards for contributions to the field, showcasing dedication and hard work.
-
-✈️ Beyond tech, I'm an avid traveler. Exploring diverse cultures fuels my creativity and innovative thinking—believing varied perspectives drive impactful solutions.
+I'm constantly seeking opportunities to learn and innovate in this rapidly evolving space. I'm proficient in C++, Python3 and Tensorflow.
 
 
 ## 🌐 Socials:
