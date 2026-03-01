@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Clean header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=SHUKUR%20ALAM&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Vision%20%E2%80%A2%20IoT%20%E2%80%A2%20Automation&descSize=16&descColor=b0b0b0&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=6C63FF&height=180&section=header&text=SHUKUR%20ALAM&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Computer%20Vision%20%E2%80%A2%20IoT%20%E2%80%A2%20Automation&descSize=16&descColor=c9d1d9&descAlignY=55" width="100%"/>
 
 <br/>
 
@@ -78,21 +78,21 @@ class ShukurAlam:
 <tr>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark" alt="AI tools"/><br/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="sklearn"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-6C63FF?style=flat-square&logo=scikit-learn&logoColor=white" alt="sklearn"/>
+  <img src="https://img.shields.io/badge/Pandas-6C63FF?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
 </td>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="Languages"/><br/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="flask"/>
+  <img src="https://img.shields.io/badge/Flask-6C63FF?style=flat-square&logo=flask&logoColor=white" alt="flask"/>
 </td>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="IoT"/><br/>
-  <img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=ifttt&logoColor=white" alt="ifttt"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="grafana"/>
+  <img src="https://img.shields.io/badge/IFTTT-6C63FF?style=flat-square&logo=ifttt&logoColor=white" alt="ifttt"/>
+  <img src="https://img.shields.io/badge/Grafana-6C63FF?style=flat-square&logo=grafana&logoColor=white" alt="grafana"/>
 </td>
 <td align="center">
   <img src="https://skillicons.dev/icons?i=docker,aws,linux,git&theme=dark" alt="DevOps"/><br/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="heroku"/>
+  <img src="https://img.shields.io/badge/Heroku-6C63FF?style=flat-square&logo=heroku&logoColor=white" alt="heroku"/>
 </td>
 </tr>
 </table>
@@ -141,15 +141,15 @@ class ShukurAlam:
 <h2 align="center">Let's Connect</h2>
 
 <div align="center">
-  <a href="mailto:shukuralom1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:shukuralom1234@gmail.com"><img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &nbsp;
-  <a href="https://linkedin.com/in/shukur-alam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/shukur-alam"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
-  <a href="https://kaggle.com/shukuralom"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://kaggle.com/shukuralom"><img src="https://img.shields.io/badge/Kaggle-6C63FF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   &nbsp;
-  <a href="https://fb.com/shukur84"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://fb.com/shukur84"><img src="https://img.shields.io/badge/Facebook-6C63FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   &nbsp;
-  <a href="https://www.leetcode.com/shukuralom1234"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.leetcode.com/shukuralom1234"><img src="https://img.shields.io/badge/LeetCode-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </div>
 
 <br/>
@@ -165,5 +165,5 @@ class ShukurAlam:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 </div>
